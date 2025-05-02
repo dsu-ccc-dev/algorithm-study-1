@@ -64,11 +64,12 @@
 <br/>
 
 <details>
-<summary style="font-weight:bold;color:darkgray;font-size:18px">11월 진행상황 (펼치기/접기)</summary>
+<summary style="font-weight:bold;color:darkgray;font-size:18px">진행상황 (펼치기/접기)</summary>
 <div markdown="1" >
 
 |   날짜   | ssoongji | yuxxzn | coldDayss | hyunmin2667 |
 | :------: | :------: | :----: | :-------: | :---------: |
+| 5/2 (월) |          |        |           |             |
 | 5/1 (월) |    ✅    |   ✅   |    ✅     |     ✅      |
 
 <br/>
